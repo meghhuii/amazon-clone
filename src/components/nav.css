@@ -1,0 +1,14 @@
+.nav{
+    width: 100%;
+    top: 0px;
+    height: 70px;
+    position: fixed;
+    padding-left: 0rem;
+    padding-top: 0.6rem;
+    z-index: 1;
+   
+ 
+}
+.nav{
+    background-color: rgb(8, 8, 27);
+}
